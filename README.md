@@ -1,2 +1,2 @@
-My first readme /n
+My first readme 
 The readme has been updated 
